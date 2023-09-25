@@ -20,7 +20,7 @@ const About = () => {
               </p>
               <p className=" text-black-50">
                 As a junior Front-End Developer, I possess an impressive arsenal
-                of skills in HTML,CSS,JavaScript,Bootstrap,React,Tailwind and
+                of skills in HTML, CSS, JavaScript, Bootstrap, React, Tailwind and
                 Sass. I excel in designing and maintaining responsive websites
                 that offer a smooth user experience. My expertise lies in
                 crafting dynamic, engaging interfaces through writing clean and
