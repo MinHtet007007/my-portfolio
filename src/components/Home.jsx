@@ -4,6 +4,7 @@ import { TfiBag } from "react-icons/tfi";
 import myHeroImage from "../assets/profile-pic.png";
 import { Link } from "react-scroll";
 import Typed from "typed.js";
+import myResume from "../assets/resume/MinHtetAung_Resume.pdf";
 
 const Home = () => {
   // Create reference to store the DOM element containing the animation
@@ -48,9 +49,9 @@ const Home = () => {
                   <TfiBag className=" me-2" /> View Portfolio
                 </Link>
 
-                <button className=" btn btn-success  d-flex justify-content-center align-items-center">
+                <a href={myResume} download={true} className=" btn btn-success  d-flex justify-content-center align-items-center">
                   <BsDownload className=" me-2" /> Download Resume
-                </button>
+                </a>
               </div>
             </div>
           </div>

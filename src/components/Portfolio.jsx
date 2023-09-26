@@ -20,7 +20,7 @@ const Portfolio = () => {
     {
       id: 2,
       title: "My Portfolio Project",
-      desc: "This project is using React, Bootstrap and Sass. It compatible with all mobile devices and with a pleasant user interface.",
+      desc: "This project is using React, Bootstrap and Sass. It is compatible with all mobile devices and with a pleasant user interface.",
       demoLink: "https://mha-portfolio.netlify.app/",
       codeLink: "https://github.com/MinHtet007007/my-portfolio",
       img: myPortfolioImage,
@@ -28,7 +28,7 @@ const Portfolio = () => {
     {
       id: 3,
       title: "Shopping Project",
-      desc: "This project is using React, Redux Toolkit and TailwindCSS. It covered e-commerce feature like add-to-cart and sum total.",
+      desc: "This project is using React, Redux Toolkit and TailwindCSS. It covered e-commerce features like add-to-cart and sum total.",
       demoLink: "https://magical-otter-228b3c.netlify.app/",
       codeLink: "https://github.com/MinHtet007007/rtk-shopping-project",
       img: shopImage,
@@ -44,7 +44,7 @@ const Portfolio = () => {
     {
       id: 5,
       title: "Car Showroom Project",
-      desc: "This project is using HTML, CSS, Bootstrap, Sass and Vanilla JavaScript. It is static website for electric car showroom.",
+      desc: "This project is using HTML, CSS, Bootstrap, Sass and Vanilla JavaScript. It is a static website for electric car showroom.",
       demoLink: "https://dynamic-snickerdoodle-b86fc1.netlify.app/",
       codeLink: "https://github.com/MinHtet007007/car-showroom-project",
       img: carShowroomImage,
