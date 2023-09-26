@@ -14,7 +14,6 @@ $spacers: (
   8: $spacer * 24,
 );
 
-
 .bd-masthead {
   background-image: linear-gradient(
       164deg,
@@ -55,6 +54,20 @@ $spacers: (
   text-decoration: underline !important;
 }
 
+.card {
+  transition-delay: 200ms;
+  transition-duration: 400ms;
+  transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+
+
+@media (min-width:992px){
+
+  .card:hover {
+   transform: scale(1.15);
+  }
+}
 
 
 //bootstrap
